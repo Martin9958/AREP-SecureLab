@@ -9,7 +9,8 @@ public class SecuredServerController {
 
     @RequestMapping("/secured")
     public String secured(){
-        return "Helllo User";
+        counter+=1;
+        return "Hello User" + counter;
     }
 
 }
