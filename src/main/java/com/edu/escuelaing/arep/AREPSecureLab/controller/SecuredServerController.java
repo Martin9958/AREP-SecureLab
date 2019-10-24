@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class SecuredServerController {
     Integer counter = 0;
 
-    @RequestMapping("/secured")
+    @RequestMapping()
     public String secured(){
         counter+=1;
         return "Hello User" + counter;
