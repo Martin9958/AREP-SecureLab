@@ -24,4 +24,15 @@ Explique como escalaría su arquitectura de seguridad para incorporar nuevos ser
 - Este Documento muestra el desarrollo de una aplicacion Web segura utilizando Spring y maven, donde se establece un registro de usuarios, un login que permite la autenticacion de los usuarios y un inicio que no sera accesible a todos los usuarios, sino solo a usuarios que esten en base de datos, adicionalmente esta establecida medianre protocolo HTTPS y el certificado correspondiente.
 
 ## Imagenes:
+- Login
+
+![Login](https://github.com/Martin9958/AREP-SecureLab/blob/master/src/images/Screen%20Shot%202019-10-24%20at%207.24.41%20PM.png)
+
+- Registro
+
+![Login](https://github.com/Martin9958/AREP-SecureLab/blob/master/src/images/Screen%20Shot%202019-10-24%20at%207.25.06%20PM.png)
+
+- Pagina de Inicio
+
+![Login](https://github.com/Martin9958/AREP-SecureLab/blob/master/src/images/Screen%20Shot%202019-10-24%20at%207.25.20%20PM.png)
 
