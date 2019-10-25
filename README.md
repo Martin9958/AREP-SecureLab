@@ -36,3 +36,16 @@ Explique como escalaría su arquitectura de seguridad para incorporar nuevos ser
 
 ![Login](https://github.com/Martin9958/AREP-SecureLab/blob/master/src/images/Screen%20Shot%202019-10-24%20at%207.25.20%20PM.png)
 
+## Prerequisitos
+- Java 1.8
+- Apache Maven 3.6.0
+- SpringBoot
+- AWS EC2 (Servicio de AWS)
+
+
+## licencia
+-Este proyecto esta certificado por la licencia del MIT - puede entrar al archivo LICENSE.md para mas detalles
+
+## Author
+- Andres Martin Cantor Urrego (andres.cantor-u@mail.escuelaing.edu.co)
+
